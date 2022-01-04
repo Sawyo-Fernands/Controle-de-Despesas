@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/78683353/148055925-05d05b28-7e03-4492-8eb6-0f921cbd8711.png)
+
 
 ## ⚙️ Projeto
 
- O projeto consiste em uma tentativa de recriar interface da plataforma netflix 
+ O projeto consiste em uma plataforma web que cadastra todas as despesas do usuário e mostra ao mesmo seus gastos, ganhos e dentre outras informações
  
  
  ## 👨🏻‍💻 Tecnologias utilizadas 
@@ -20,15 +20,14 @@
  
 **Backend**
 
-*- npm install*
+*- Execute yarn/npm para baixar todas as dependencias*
 
-*-Entre na pasta scripts e execute todos os scripts ( cd scripts )*
+*-Entre na pasta do backend e execute o index.js ( yarn start / npm start)*
 
--Execute o index.js ( yarn start / npm start) *
 
  **Frontend**
  
- *-npm install*
+ *- Execute yarn/npm para baixar todas as dependencias*
  
  *-Entre na pasta src ( cd my-app/src )*
  
